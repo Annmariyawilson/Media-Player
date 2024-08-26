@@ -1,0 +1,18 @@
+media player
+
+react -front
+json server -back
+
+add utube videos
+view added utube videos
+delete added utube videos
+add categories
+view added categories
+delete categories
+add videos to categories
+view with history
+
+
+
+react bootsrap = npm i react-bootsrap bootsrap
+https://bootswatch.com/ - 
