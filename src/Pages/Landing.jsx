@@ -16,7 +16,7 @@ function Landing() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum officiis error ab totam, neque doloribus dolores perspiciatis enim pariatur quidem accusamus delectus aliquid odio laudantium itaque nisi. Possimus, minima deleniti!
             </p>
             <div className='d-grid'>
-              <Link to={'/home'} className='btn btn-primary'>Let's Start</Link>
+              <Link to={'/login'} className='btn btn-primary'>Let's Go</Link>
             </div>
           </Col>
           <Col className='py-4' sm={12} md={6}> 
