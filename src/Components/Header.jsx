@@ -18,7 +18,7 @@ function Header() {
           Media Player
         </Navbar.Brand>
       </Container>
-      <button className='btn btn-primary' onClick={logout}>Logout</button>
+      <button className='btn btn-primary me-5' onClick={logout}>Logout</button>
     </Navbar>
   );
 }
