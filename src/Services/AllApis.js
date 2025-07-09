@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const base_url="https://media-player-project.onrender.com"
+const base_url="https://media-player-project-1.onrender.com"
 
 export const addVideos = async (data) => {
     return await axios.post(`${base_url}/videos`, data);
